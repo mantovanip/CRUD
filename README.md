@@ -1,6 +1,6 @@
 # Cadastro de Clientes
 
-Este é um projeto de cadastro de clientes desenvolvido utilizando o .NET Core 3.1 ou .NET 5.0, o Entity Framework e o banco de dados PostgreSQL.
+Este é um projeto de cadastro de clientes desenvolvido utilizando o  .NET 5.0, o Entity Framework e o banco de dados PostgreSQL.
 
 ## Pré-requisitos ✔️
 - .NET Core 3.1 ou .NET 5.0
